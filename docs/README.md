@@ -7,4 +7,7 @@ The project is arranged as follows:
  
  * Variables Definitions and Explanation is included in the excel file, Variable Definitions.xlsx
  * Prosper-loan-project-files/figure-html contains all the figures
+ * HTML file is stored in the Code folder.
+ 
+ 
  
