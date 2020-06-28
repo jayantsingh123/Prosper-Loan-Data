@@ -12,7 +12,7 @@ The project is arranged as follows:
  
  
 ## Summary
-Prosper Loan is a finace company, helping people to get rid of their high interest debts and live peacefully. But with every loan, comes a billion dollar question, ** what will be the APR?** Prosper loan promises to deliver on its promises.
+Prosper Loan is a finace company, helping people to get rid of their high interest debts and live peacefully. But with every loan, comes a billion dollar question, ** what will be the APR**? Prosper loan promises to deliver on its promises.
 https://user-images.githubusercontent.com/27310613/85954413-0f066b80-b92c-11ea-9dbd-48da1a8f4262.png
 
 In this analysis, relevant variables/feature that may affect the APR on the loan have been studied. Relevant pictures and graphs have been added to produce clarity.
