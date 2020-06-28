@@ -11,3 +11,5 @@ The project is arranged as follows:
  
  
  
+## Summary
+Prosper Loan is a finace company, helping people to get rid of their high interest debts and live peacefully. But with every loan, comes a billion dollar question, ** what will be the APR?** Prosper loan promises to deliver on its promises.
